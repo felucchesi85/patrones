@@ -1,0 +1,21 @@
+# Ignora los archivos de configuración del IDE
+.idea/
+*.iml
+
+# Ignora los archivos de compilación
+/target/
+/out/
+/build/
+/bin/
+
+# Ignora los archivos de log
+*.log
+
+# Ignora los archivos temporales del sistema
+*.bak
+*.swp
+*.swo
+*~
+
+# Ignora los archivos de la base de datos
+*.db
